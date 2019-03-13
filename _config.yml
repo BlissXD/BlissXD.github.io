@@ -6,8 +6,8 @@
 # For baseurl:
 # Use '' for / or '/your-dir' for another directory
 
-title:		RLStevenson
-description:	'A Bootstrap based clone of the Hyde theme by mdo.'
+title:		BlissXD
+description:	"Blog"
 freetext:	'Released under an MIT license - feel free to make pull requests.'
 baseurl:	'/'
 paginate:	3

@@ -7,7 +7,7 @@
 # Use '' for / or '/your-dir' for another directory
 
 title:		BlissXD
-description:	"Blog"
+description:	'Blog'
 freetext:	'Released under an MIT license - feel free to make pull requests.'
 baseurl:	'/'
 paginate:	3
